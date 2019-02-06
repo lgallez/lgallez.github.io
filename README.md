@@ -1,1 +1,1 @@
-This repository is for pages deployed.
+This repository is for web pages launched.
